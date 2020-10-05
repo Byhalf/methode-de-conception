@@ -1,4 +1,7 @@
-/build
-/nbproject
-*.xml
+build/
+nbproject/
+private/
+
 *.mf
+/methode_conception_tp5/nbproject/private/
+/piecesPuzzle/nbproject/private/
